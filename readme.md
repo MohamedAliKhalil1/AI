@@ -1,6 +1,8 @@
 # <4Gewinnt> (PiS, SoSe 2020) 
 
-Autor: Ammar Ahmed, 5226465
+Autors: 
+Ammar Ahmed, 5226465
+Mohamed Ali, 575452
 
 Ich habe die Zulassung für PiS im <WiSe/SoSe 2019> bei Herrn Franzen erhalten.
 
